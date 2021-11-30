@@ -2,7 +2,9 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=caioc.visitor-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioc&show_icons=true&theme=chartreuse-dark&count_private=true)
+![CaioC's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioc&show_icons=true&theme=chartreuse-dark&count_private=true)
+
+![CaioC Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=caioc&count_private=true&theme=chartreuse-dark)
 
 
 <!--
