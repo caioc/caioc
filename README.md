@@ -1,4 +1,4 @@
-### Hi, I'm Caio Gomes 👋
+### Hi, I'm Caio Gomes 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=caioc.visitor-badge)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioc&show_icons=true&theme=chartreuse-dark&count_private=true)
 
